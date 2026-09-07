@@ -1,2 +1,2 @@
 this line of text is from feature1.
-this line of text is from feature2.
+this line of text is from feature2 <feature>.
